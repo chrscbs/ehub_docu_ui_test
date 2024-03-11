@@ -68,7 +68,7 @@ To get individual instrument-response-file using python:
   ```
   After running the script, it will output a PNG file of the plot and an XML file of the instrument response information of the station specified in the script.
   
-  ![Untitled](How%20to%20Get%20Individual%20Instrument-Response-Files%2005e85377efa34567a0c36850e361261e/Untitled.png)
+  ![Untitled](_build/html/assets/_build/html/assets/getting-instrument-response-file/Untitled.png)
   
-  ![Sample instrument-response-file of RE722 station in PNG format.](How%20to%20Get%20Individual%20Instrument-Response-Files%2005e85377efa34567a0c36850e361261e/RE722_inst_resp_file.png)
+  ![Sample instrument-response-file of RE722 station in PNG format.](_build/html/assets/getting-instrument-response-file/RE722_inst_resp_file.png)
   Sample instrument-response-file of RE722 station in PNG format.
